@@ -1,0 +1,50 @@
+Design Study 1
+Scenarios/Iterations:, 5
+Parameter Constraint or Goal,Format,Unit,Initial Value,Scenario 1,Scenario 2,Scenario 3,Scenario 4,Scenario 5
+,,,,Calculated,Calculated,Estimated,Calculated,Calculated
+CS Length,,N/A,0.440000,0.420000,0.420000,0.439000,0.380000,0.440000
+BB Drop,,N/A,0.060000,0.074000,0.065000,0.054000,0.070000,0.060000
+Stack,,m,0.5656,0.5656,0.5656,0.5721,0.5656,0.5656
+SS E,,N/A,0.050000,0.040000,0.045000,0.045000,0.045000,0.050000
+ST Angle,,N/A,1.291540,1.291544,1.265364,1.291544,1.291544,1.291544
+BB OD,,m,0.04,0.0381,0.04,0.04,0.04,0.04
+TT OD,,m,0.0286,0.0254,0.0361,0.0286,0.03225,0.0286
+HT OD,,m,0.05,0.0317,0.05,0.0413,0.05,0.05
+DT OD,,m,0.0365,0.034,0.043,0.0365,0.0365,0.0365
+CS OD,,N/A,0.021350,0.017350,0.028850,0.017500,0.023350,0.021350
+SS OD,,N/A,0.015000,0.010500,0.013000,0.011500,0.013000,0.015000
+ST OD,,N/A,0.032700,0.028600,0.031800,0.031000,0.031800,0.032700
+CS F,,m,0.015,0.015,0.015,0.015,0.015,0.015
+HT LX,,N/A,0.031000,0.044000,0.056600,0.049500,0.043600,0.031000
+ST UX,,N/A,0.051000,0.044000,0.044600,0.040900,0.028700,0.051000
+HT UX,,N/A,0.024100,0.030000,0.035100,0.033800,0.030000,0.024100
+HT Angle,,deg,69,74,72,70,74,69
+HT Length,,m,0.105,0.14,0.125,0.1152,0.15,0.105
+ST Length,,N/A,0.430000,0.540000,0.460600,0.460000,0.508700,0.430000
+BB Length,,m,0.073,0.068,0.068,0.068,0.068,0.073
+Dropout Offset,,N/A,0.142000,0.130000,0.130000,0.135000,0.130000,0.142000
+SSB OD,,N/A,0.000000,0.000000,0.000000,0.016000,0.000000,0.000000
+CSB OD,,N/A,0.000000,0.000000,0.000000,0.018000,0.000000,0.000000
+Material,,N/A,AISI 4130 Steel, annealed at 865C@SOLIDWORKS Materials,AISI 4130 Steel, annealed at 865C@SOLIDWORKS Materials,AISI 4130 Steel, annealed at 865C@SOLIDWORKS Materials,Ti-6Al-4VSolution treated and aged (SS)@SOLIDWORKS Materials,Ti-6Al-4VSolution treated and aged (SS)@SOLIDWORKS Materials,AISI 4130 Steel, annealed at 865C@SOLIDWORKS Materials
+SSB Offset,,N/A,0.330000,0.330000,0.330000,0.330000,0.330000,0.330000
+CSB Offset,,N/A,0.350000,0.350000,0.350000,0.350000,0.350000,0.350000
+SS Z,,N/A,0.009000,0.010600,0.009000,0.009000,0.009000,0.009000
+SS Thickness,,N/A,0.003117,0.000993,0.001000,0.006897,0.008256,0.003117
+CS Thickness,,N/A,0.005711,0.004948,0.001200,0.001356,0.007112,0.005711
+TT Thickness,,N/A,0.000529,0.001190,0.000900,0.000879,0.003000,0.000529
+BB Thickness,,m,0.00084534,0.00109,0.002,0.00272,0.003555,0.00084534
+HT Thickness,,m,0.001136,0.001166,0.0011,0.001785,0.005932,0.001136
+ST Thickness,,m,0.003618,0.009363,0.0009,0.001158,0.001208,0.003618
+DT Thickness,,m,0.00054987,0.0007564,0.0009,0.008974,0.004532,0.00054987
+Dropout X Displacement,Monitor Only, m,3.388e-02,3.488e-02,1.366e-02,Simulation Eccentric Stiffness (3) fails.,1.480e-02,3.331e-02
+Dropout Y Displacement,Monitor Only, m,-5.888e-02,-6.705e-02,-2.402e-02,Simulation Eccentric Stiffness (3) fails.,-2.732e-02,-5.799e-02
+BB X Displacement,Monitor Only, m,3.932e-02,4.214e-02,1.613e-02,Simulation Eccentric Stiffness (3) fails.,1.763e-02,3.867e-02
+BB Y Displacement,Monitor Only, m,-2.809e-02,-3.430e-02,-1.141e-02,Simulation Eccentric Stiffness (3) fails.,-1.510e-02,-2.767e-02
+BB Z Displacement,Monitor Only, m,1.566e-03,2.409e-03,9.491e-04,Simulation Eccentric Stiffness (3) fails.,1.007e-03,1.549e-03
+BBR Y Displacement,Monitor Only, m,-9.594e-03,-1.238e-02,-4.448e-03,Simulation Eccentric Stiffness (3) fails.,-5.645e-03,-9.437e-03
+BBL Y Displacement,Monitor Only, m,1.292e-02,1.460e-02,5.076e-03,Simulation Eccentric Stiffness (3) fails.,6.347e-03,1.269e-02
+Min FS 1,Monitor Only,,1.791e-01,1.850e-01,3.711e-01,Simulation Eccentric Stiffness (3) fails.,1.223e+00,1.898e-01
+Max Stress 1,Monitor Only, N/m^2,2.569e+09,2.486e+09,1.239e+09,Simulation Eccentric Stiffness (3) fails.,6.763e+08,2.424e+09
+Min FS 3,Monitor Only,,5.515e-01,5.357e-01,1.138e+00,Simulation Eccentric Stiffness (3) fails.,4.075e+00,5.804e-01
+Max Stress 3,Monitor Only, N/m^2,8.342e+08,8.587e+08,4.041e+08,Simulation Eccentric Stiffness (3) fails.,2.030e+08,7.926e+08
+Mass,Monitor Only, kg,3.79,2.8,2.85,Simulation Eccentric Stiffness (3) fails.,4.42,3.79
