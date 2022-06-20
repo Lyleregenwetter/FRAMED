@@ -1,0 +1,51 @@
+Design Study 1
+Scenarios/Iterations:, 1
+Parameter Constraint or Goal,Format,Unit,Initial Value,Scenario 1
+,,,,Calculated
+CS Length,,m,0.36565,0.36565
+BB Drop,,m,0.05,0.05
+Stack,,m,0.5656,0.5656
+SS E,,m,0.045,0.045
+ST Angle,,deg,73.99979,73.99979
+BB OD,,m,0.04,0.04
+TT OD,,m,0.0286,0.0286
+HT OD,,m,0.045,0.045
+DT OD,,m,0.0365,0.0365
+CS OD,,N/A,0.023350,0.023350
+SS OD,,N/A,0.013000,0.013000
+ST OD,,N/A,0.031800,0.031800
+CS F,,m,0.015,0.015
+HT LX,,N/A,0.048900,0.048900
+ST UX,,N/A,0.047000,0.047000
+HT UX,,N/A,0.034000,0.034000
+HT Angle,,deg,72,72
+HT Length,,m,0.1121,0.1121
+ST Length,,m,0.51,0.51
+BB Length,,m,0.068,0.068
+Dropout Offset,,N/A,0.130000,0.130000
+SSB OD,,m,0.016,0.016
+CSB OD,,m,0.018,0.018
+Material,,,,6061-T6 (SS)@SOLIDWORKS Materials
+SSB Offset,,N/A,0.330000,0.330000
+CSB Offset,,N/A,0.350000,0.350000
+SS Z,,N/A,0.009000,0.009000
+SS Thickness,,N/A,0.002726,0.002726
+CS Thickness,,N/A,0.000564,0.000564
+TT Thickness,,N/A,0.004988,0.004988
+BB Thickness,,m,0.009592,0.009592
+HT Thickness,,m,0.0007362,0.0007362
+ST Thickness,,m,0.006762,0.006762
+DT Thickness,,m,0.009776,0.009776
+DT Length,,N/A,0.576364,0.576364
+Min FS 1,Monitor Only,,3.628e+00,9.127e-01
+Max Stress 1,Monitor Only, N/m^2,2.281e+08,3.013e+08
+Min FS 3,Monitor Only,,4.512e+00,7.989e-01
+Max Stress 3,Monitor Only, N/m^2,1.834e+08,3.442e+08
+Mass,Monitor Only, kg,4.76,2.19
+Dropout X Displacement,Monitor Only, m,-2.769e-03,-9.831e-03
+Dropout Y Displacement,Monitor Only, m,4.397e-03,1.941e-02
+BB X Displacement,Monitor Only, m,-3.300e-03,-1.077e-02
+BB Y Displacement,Monitor Only, m,1.941e-03,1.045e-02
+BB Z Displacement,Monitor Only, m,1.373e-03,2.676e-03
+BBR Y Displacement,Monitor Only, m,-1.546e-03,-1.135e-02
+BBL Y Displacement,Monitor Only, m,-1.201e-03,-1.039e-02
